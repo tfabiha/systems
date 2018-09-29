@@ -1,0 +1,12 @@
+[submodule "switcheroo"]
+	path = switcheroo
+	url = git@github.com:tfabiha/switcheroo.git
+[submodule "pointy"]
+	path = pointy
+	url = git@github.com:tfabiha/pointy.git
+[submodule "euler"]
+	path = euler
+	url = git@github.com:tfabiha/euler.git
+[submodule "string_functions"]
+	path = string_functions
+	url = git@github.com:tfabiha/string_functions.git
